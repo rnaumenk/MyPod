@@ -1,0 +1,16 @@
+PODS:
+  - rnaumenk2019 (0.1.0)
+
+DEPENDENCIES:
+  - rnaumenk2019 (from `../`)
+
+EXTERNAL SOURCES:
+  rnaumenk2019:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  rnaumenk2019: 35f382446cfb36d6802d3801806c9556dae07a95
+
+PODFILE CHECKSUM: 66d12daf0b6ec6e21353d6ba4bc05ade34499275
+
+COCOAPODS: 1.5.3
